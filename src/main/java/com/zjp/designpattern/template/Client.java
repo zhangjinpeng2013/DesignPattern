@@ -1,7 +1,5 @@
 package com.zjp.designpattern.template;
 
-import com.zjp.designpattern.decorator.Soy;
-
 public class Client {
     public static void main(String[] args) {
         System.out.println("----制作红豆豆浆---");
